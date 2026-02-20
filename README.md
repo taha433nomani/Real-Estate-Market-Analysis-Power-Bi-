@@ -128,12 +128,12 @@ Pricing Optimization: Bedroom and floor-level analysis helps understand how prop
 
 ## Screenshots / Demos
 
-![Dashboard Preview 1]
+Dashboard 
 (<img width="1202" height="676" alt="Real Estate Market Analysis Dashboard (1)" src="https://github.com/user-attachments/assets/dc35e301-fa62-4674-aa25-3fdd37646f04" />
 )
-![Dashboard Preview 2]
+Property Characteristics Analysis
 (<img width="1172" height="668" alt="Real Estate Market Analysis Dashboard(2)" src="https://github.com/user-attachments/assets/2e04c83f-085f-413f-b2f0-b15a82475091" />
 )
-![Dashboard Preview 3]
+Time Based Analysis
 (<img width="1171" height="666" alt="Real Estate Market Analysis Dashboard(3)" src="https://github.com/user-attachments/assets/67f142c8-d66e-4efa-816a-64b328983fb6" />
 )
