@@ -12,9 +12,13 @@ This dashboard is intended for real estate investors, property consultants, mark
 The dashboard was built using the following tools and technologies:
 
 • Power BI Desktop – Main data visualization platform used for report creation.
+
 • Power Query – Used for data cleaning, transformation, and preparation.
+
 • DAX (Data Analysis Expressions) – Used for calculated measures such as average price, renovation impact percentage, and property segmentation.
+
 • Data Modeling – Relationships created between property details, renovation status, and location tables to enable cross-filtering.
+
 • File Format – .pbix for development and .png for dashboard previews.
 
 ## Data Source
